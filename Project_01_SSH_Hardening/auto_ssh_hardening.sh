@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # SSH Security Hardening Script for RHEL/Fedora Systems
-# Author: Security Admin
+# Author: Ahmed Sobhi Ali
 # Version: 1.0
 # Description: Automates SSH hardening with comprehensive security measures
 
